@@ -25,12 +25,3 @@ ul {
 body {
   background-color: lightgreen;
 }
-
-img {
-  float: left;
-}
-
-.column {
-  width: 50%;
-  float: left;
-}
